@@ -39,6 +39,7 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
+| Fluxo de Caixa | Controle financeiro simples | [Repositório](https://pinheiro-code.github.io/mini-fluxo-caixa-angular) |
 | Hash Watch | Página de produto interativa | [Repositório](https://pinheiro-code.github.io/AppleWatch-projeto) |
 | Math Scape | Jogo educativo de matemática | [Repositório](https://github.com/pinheiro-code/MathScape) |
 | Key Quest | Jogo de plataforma divertido | [Repositório](https://github.com/pinheiro-code/KeyQuest) |
