@@ -1,0 +1,33 @@
+name: Gerar cobrinha das contribuições
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar animação das contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: pinheiro-code
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%233178c6&color_dots=%23ebedf0%2C%23cfe3ff%2C%2379b8ff%2C%233178c6%2C%230b2447
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2379b8ff&color_dots=%23161b22%2C%230b2447%2C%231f4f8f%2C%233178c6%2C%2379b8ff
+
+      - name: Publicar animação
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

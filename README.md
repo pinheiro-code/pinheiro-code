@@ -1,52 +1,261 @@
-<p align="center">
-  <img src="https://github.com/pinheiro-code.png" width="150" alt="Arthur Ponheiro"/>
-</p>
+<div align="center">
 
-# 👋 Olá, eu sou o Arthur
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0b2447,100:3178c6&text=Arthur%20Pinheiro&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Front-end%20%E2%80%A2%20Angular%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Arthur Pinheiro, Front-end, Angular e TypeScript" />
 
-🎓 Estudante de **Ciência da Computação (Unifor)** e **Desenvolvimento Full Stack (Digital College Brasil)**  
-💻 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em projetos reais.  
-✨ Sempre buscando aprender, crescer e criar soluções impactantes.  
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=79B8FF&center=true&vCenter=true&width=700&lines=Estagi%C3%A1rio+de+Front-end+no+Nibo;Angular+%2B+TypeScript+no+dia+a+dia;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unifor;Transformando+ideias+em+projetos+reais" alt="Estagiário de Front-end no Nibo, Angular e TypeScript no dia a dia, Ciência da Computação na Unifor" />
 
-## 🚀 Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+</div>
 
 ---
 
-## 🚀 Projetos Recentes
+<div align="center">
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Fluxo de Caixa | Controle financeiro simples | [Repositório](https://pinheiro-code.github.io/mini-fluxo-caixa-angular) |
-| Hash Watch | Página de produto interativa | [Repositório](https://pinheiro-code.github.io/AppleWatch-projeto) |
-| Math Scape | Jogo educativo de matemática | [Repositório](https://github.com/pinheiro-code/MathScape) |
-| Key Quest | Jogo de plataforma divertido | [Repositório](https://github.com/pinheiro-code/KeyQuest) |
+### `✦ um pouco sobre mim ✦`
+
+</div>
+
+<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d1117&text=%26lt%3B%2F%26gt%3B&fontColor=79b8ff&fontSize=80&fontAlignY=55&stroke=3178c6&strokeWidth=1&animation=twinkling" alt="" />
+
+👋 Olá, eu sou o **Arthur**, estagiário de **Front-end no [Nibo](https://www.nibo.com.br)**.
+
+No dia a dia trabalho com **Angular e TypeScript** nas telas que os escritórios de contabilidade usam para cuidar dos seus clientes.
+
+🎓 Estudo **Ciência da Computação na Unifor** e **Desenvolvimento Full Stack na Digital College Brasil**.
+
+Hoje meu foco está em:
+
+* 🅰️ Telas e componentes em **Angular**
+* 🔷 Código tipado com **TypeScript**
+* 🎨 Interfaces fiéis ao **design system** e ao Figma
+* 🧱 Arquitetura e princípios **SOLID** na faculdade
+* 🎮 Jogos 2D com **Godot** nos projetos pessoais
+
+<br clear="right"/>
 
 ---
 
-## 📫 Contato
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthurpinheiroaraujo)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthurpinheiroaraujo06@gmail.com)  
+## `⌁ TECNOLOGIAS`
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,react&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind, React" />
+
+<br><br>
+
+### Outras linguagens
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,godot&theme=dark" alt="Java, Node.js, Godot" />
+
+<br><br>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code, Figma" />
+
+</div>
 
 ---
 
-✨ Sempre aprendendo, criando e evoluindo como desenvolvedor!
+<div align="center">
 
+## `⌁ ONDE CADA UMA ENTRA`
 
+</div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Front-end
+
+```text
+Angular       ████████████████████  no trabalho
+TypeScript    ████████████████████  no trabalho
+HTML / SCSS   ████████████████████  no trabalho
+JavaScript    ███████████████░░░░░  em projetos
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Fora do front
+
+```text
+Git           ████████████████████  no trabalho
+Java          ███████████████░░░░░  na faculdade
+Godot         ██████████████░░░░░░  em jogos 2D
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `✧ projetos`
+
+<sub>Alguns projetos que mostram por onde passei até aqui.</sub>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Missão Marte, refatoração SOLID</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-3178C6?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SOLID-0B2447?style=flat-square" alt="SOLID"/>
+
+<br><br>
+
+Jogo de console reorganizado em camadas sem mudar o que ele faz: a <code>Main</code> caiu de 557 para 60 linhas e ganhou 159 verificações automatizadas.
+
+<br><br>
+
+<a href="https://github.com/pinheiro-code/missao-marte-solid-arthur-pinheiro">
+<img src="https://img.shields.io/badge/VER%20PROJETO-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto Missão Marte"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⌚ Hashwatch</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML%20%2B%20CSS-0B2447?style=flat-square&logo=html5&logoColor=79B8FF" alt="HTML e CSS"/>
+
+<br><br>
+
+Página de produto interativa: cor, tamanho e imagem do relógio mudam na hora, com JavaScript puro e manipulação do DOM.
+
+<br><br>
+
+<a href="https://pinheiro-code.github.io/AppleWatch-projeto/">
+<img src="https://img.shields.io/badge/VER%20ONLINE-3178C6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver o Hashwatch online"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧮 MathScape</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Godot-3178C6?style=flat-square&logo=godotengine&logoColor=white" alt="Godot"/>
+<img src="https://img.shields.io/badge/Jogo%20educativo-0B2447?style=flat-square" alt="Jogo educativo"/>
+
+<br><br>
+
+Jogo 2D para crianças praticarem matemática: só passa de fase quem resolve o desafio.
+
+<br><br>
+
+<a href="https://github.com/pinheiro-code/MathScape">
+<img src="https://img.shields.io/badge/VER%20PROJETO-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto MathScape"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗝️ Key Quest</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Godot-3178C6?style=flat-square&logo=godotengine&logoColor=white" alt="Godot"/>
+<img src="https://img.shields.io/badge/Plataforma%202D-0B2447?style=flat-square" alt="Plataforma 2D"/>
+
+<br><br>
+
+Aventura 2D em que o jogador explora as fases, coleta chaves e passa pelos obstáculos para completar a missão.
+
+<br><br>
+
+<a href="https://github.com/pinheiro-code/KeyQuest">
+<img src="https://img.shields.io/badge/VER%20PROJETO-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto Key Quest"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `⌁ contribuições`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinheiro-code/pinheiro-code/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/pinheiro-code/pinheiro-code/output/github-contribution-grid-snake.svg" alt="Cobrinha passando pelo gráfico de contribuições" width="95%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ vamos conversar?`
+
+<br>
+
+<a href="https://www.linkedin.com/in/arthurpinheiroaraujo">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjNzlCOEZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:arthurpinheiroaraujo06@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=79B8FF" alt="E-mail"/>
+</a>
+
+<a href="https://github.com/pinheiro-code">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=79B8FF" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<sub>Front-end • Angular • TypeScript • Unifor</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3178c6,50:0b2447,100:0d1117&section=footer" width="100%" alt="" />
+
+<sub>✨ Sempre aprendendo, criando e evoluindo como desenvolvedor!</sub>
+
+</div>
