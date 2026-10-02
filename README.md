@@ -16,23 +16,32 @@
 
 </div>
 
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d1117&text=%26lt%3B%2F%26gt%3B&fontColor=79b8ff&fontSize=80&fontAlignY=55&stroke=3178c6&strokeWidth=1&animation=twinkling" alt="" />
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-👋 Olá, eu sou o **Arthur**, estagiário de **Front-end no [Nibo](https://www.nibo.com.br)**.
+### 👤 Quem sou
 
-No dia a dia trabalho com **Angular e TypeScript** nas telas que os escritórios de contabilidade usam para cuidar dos seus clientes.
+Sou o **Arthur**, desenvolvedor **Front-end** no **[Nibo](https://www.nibo.com.br)**, na plataforma usada por escritórios de contabilidade.
 
-🎓 Estudo **Ciência da Computação na Unifor** e **Desenvolvimento Full Stack na Digital College Brasil**.
+Trabalho com **Angular e TypeScript** em produção: telas novas, evolução de funcionalidades e correção de bugs que chegam dos clientes.
 
-Hoje meu foco está em:
+🎓 **Ciência da Computação** na Unifor.
 
-* 🅰️ Telas e componentes em **Angular**
-* 🔷 Código tipado com **TypeScript**
-* 🎨 Interfaces fiéis ao **design system** e ao Figma
-* 🧱 Arquitetura e princípios **SOLID** na faculdade
-* 🎮 Jogos 2D com **Godot** nos projetos pessoais
+</td>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+### 🧭 Como eu trabalho
+
+* Entender a regra de negócio antes de escrever a primeira linha
+* Seguir o **design system** e o Figma, sem improvisar componente
+* **TypeScript** tipado e revisado em **code review** antes de cada merge
+* Conferir o resultado na tela, não só nos testes
+* Estudar **arquitetura e SOLID** para escrever código que dure
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,12 +81,12 @@ Hoje meu foco está em:
 
 ### 🔷 Front-end
 
-```text
+<pre>
 Angular       ████████████████████  no trabalho
 TypeScript    ████████████████████  no trabalho
 HTML / SCSS   ████████████████████  no trabalho
 JavaScript    ███████████████░░░░░  em projetos
-```
+</pre>
 
 </td>
 
@@ -85,11 +94,11 @@ JavaScript    ███████████████░░░░░  em p
 
 ### 🧩 Fora do front
 
-```text
+<pre>
 Git           ████████████████████  no trabalho
 Java          ███████████████░░░░░  na faculdade
 Godot         ██████████████░░░░░░  em jogos 2D
-```
+</pre>
 
 </td>
 </tr>
